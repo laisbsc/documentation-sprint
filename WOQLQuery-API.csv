@@ -1,8 +1,8 @@
 ﻿Name (WOQL.js),Name (WOQLpy),Short Description,Long Description,Parameter,Return,Example,See Also,Assignee
 q.setVocabulary(vocab),WOQLQuery().set_vocabulary(vocab),No,No,No,No,No,No,
 q.loadVocabulary(client),WOQLQuery().load_vocabulary(client),No,No,No,No,No,No,
-q.isPaged(),WOQLQuery().is_paged(),No,No,No,No,No,No,
-q.getPage(),WOQLQuery().get_page(),No,No,No,No,No,No,
+q.isPaged(),WOQLQuery().is_paged(),No,No,No,No,No,No,Lais
+q.getPage(),WOQLQuery().get_page(),No,No,No,No,No,No,Lais
 q.setPage(N),WOQLQuery().set_page(N),No,No,No,No,No,No,
 q.nextPage(),WOQLQuery().next_page(),No,No,No,No,No,No,
 q.firstPage(),WOQLQuery().first_page(),No,No,No,No,No,No,
